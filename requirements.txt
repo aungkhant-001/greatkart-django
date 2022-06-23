@@ -10,6 +10,7 @@ django-admin-honeypot==1.1.0
 django-admin-thumbnails==0.2.6
 django-session-timeout==0.1.0
 future==0.16.0
+gunicorn==20.1.0
 idna==3.3
 jmespath==0.10.0
 pathspec==0.9.0
